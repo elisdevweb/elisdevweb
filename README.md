@@ -6,6 +6,8 @@
 💻UX/UI Designer </br>
 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
+![](https://komarev.com/ghpvc/?username=elisdevweb&color=blueviolet)
+
 ---
 ### 🤖 Linguagens e Tecnologias
 
