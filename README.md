@@ -1,10 +1,8 @@
 ## 👋🏼 Prazer! Sou Elisabeth Vieira!
 
-**`Desenvolvedora Front-End | UX/UI Designer`**
+**`Desenvolvedora de Sistemas | Front-End | UX/UI Designer`**
 
-🖥️Desenvolvedora Web </br> 
-💻UX/UI Designer </br>
-👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 
 ![](https://komarev.com/ghpvc/?username=elisdevweb&color=blueviolet)
 
