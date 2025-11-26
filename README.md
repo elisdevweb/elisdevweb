@@ -1,6 +1,6 @@
 ## 👋🏼 Prazer! Sou Elisabeth Vieira!
 
-**`Desenvolvedora de Sistemas | Front-End | UX/UI Designer`**
+**`Desenvolvedora de Sistemas | Full Stack | Front-End | UX/UI Designer`**
 
 
 
